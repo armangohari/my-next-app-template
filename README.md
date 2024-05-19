@@ -10,5 +10,5 @@ This is my personally customized [Next.js](https://nextjs.org/) `next v14.2.3` a
 Run the script below in your terminal.
 
 ```bash
-npx create-next-app@latest [project-name] -e https://github.com/armangohari/my-next-app-template.git
+npx create-next-app@latest [project-name] -e https://github.com/armangohari/my-next-app-template
 ```
